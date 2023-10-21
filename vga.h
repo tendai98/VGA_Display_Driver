@@ -7,7 +7,7 @@
 #define HSYNC_GPIO  32
 #define VSYNC_GPIO  33
 
-#define INTRO_BANNER "-------[TELONE CENTER FOR LEARNING NOTICE BOARD]-----"
+#define INTRO_BANNER "-----[NOTICE BOARD]-----"
 
 VGA3Bit vga;
 
